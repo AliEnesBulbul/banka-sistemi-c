@@ -42,6 +42,7 @@ int main() {
 		switch (secim){
 			case 1:
 				printf("Hesap Olusturma Islemine Devam Ediliyor.\n");
+				printf("\n bu bir github test surumudur");
 				Sleep(2000);
 				system("CLS");
 				Hesap yeniHesap;
